@@ -16,7 +16,7 @@ module load opencv openmpi
 
 export PYTHONPATH=$PYTHONPATH:/home/wu082/software/lib/python2.7/site-packages
 RGZ_RCNN=/Users/chaka/Documents/UCT/Masters_Proj/Code/rgz_rcnn1/
-                    --device cpu \
+                    --device gpu \
                     --device_id 0 \
                     --imdb rgz_2017_trainD4 \
                     --iters 80000 \
