@@ -10,7 +10,7 @@ After generating cutouts following approach outlined in ClaRAN's paper.
 
 **Run**: `cd tools` and `%run /users/cmofokeng/rgz_rcnn/tools/demo_gmrt.py --radio /idia/users/cmofokeng/data/gmrt/split_fits/test_1deg/gmrt_en1w610_clipped_97.fits --ir /idia/users/cmofokeng/data/gmrt/split_fits/test_1deg/gmrt_en1w610_clipped_97_infrared.png --catalog /idia/users/cmofokeng/data/gmrt/en1w610-5sg9-clean-offset.vot`
 
-catalog argument was used in order to overlay positional information about the centre. The script above returns a csv file of detections from ClaRAN.
+catalog argument was used in order to overlay positional information about the centre of the cutout. The script above returns a csv file of detections from ClaRAN.
 
 ## Source characterization pipeline
 Switch to `sc_pipeline` branch.
