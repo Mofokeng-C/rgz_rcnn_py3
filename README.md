@@ -11,12 +11,12 @@ The repository include:
 
 ## Getting started
 
-* [analysis\_&\_results.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/analysis_%26_results.ipynb)
-* [claran-gmrt\_example.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/claran-gmrt_example.ipynb)
-* [com\_positions.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/com_positions.ipynb)
-* [filtered_examples.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/filtered_examples.ipynb)
-* [large\_cutout\_generation.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/large_cutout_generation.ipynb)
-* [rc\_positions\_examples.ipynb(https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/rc_positions_examples.ipynb)
+* [analysis\_&\_results.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/analysis_%26_results.ipynb): This notebook shows the analysis and result of running CLARAN on radio image data from the GMRT telescope.
+* [claran-gmrt\_example.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/claran-gmrt_example.ipynb): This notebook is a tutorial showing steps taken to apply CLARAN on GMRT data and the adapted versions of code used.
+* [com\_positions.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/com_positions.ipynb): This notebook shows a tutorial on the computation of the central positions of the detected radio sources.
+* [filtered_examples.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/filtered_examples.ipynb): This notebook shows different techniques implemented to get rid of overlapping and edge detections, in order to obtain "unique" detections.
+* [large\_cutout\_generation.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/large_cutout_generation.ipynb): This notebook is a tutorial on how to generate a 15 arcmin cutout and also how to apply CLARAN on it.
+* [rc\_positions\_examples.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/rc_positions_examples.ipynb): This notebook shows the code and the output examples of the source characterization pipeline implemented.
 
 **Run**: `python3 source_positions.py` to characterize sources.
 
