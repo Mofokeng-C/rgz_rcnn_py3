@@ -17,6 +17,8 @@ The repository include:
 * [filtered_examples.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/filtered_examples.ipynb): This notebook shows different techniques implemented to get rid of overlapping and edge detections, in order to obtain "unique" detections.
 * [large\_cutout\_generation.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/large_cutout_generation.ipynb): This notebook is a tutorial on how to generate a 15 arcmin cutout and also how to apply CLARAN on it.
 * [rc\_positions\_examples.ipynb](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/notebooks/rc_positions_examples.ipynb): This notebook shows the code and the output examples of the source characterization pipeline implemented.
+* ([demo\_gmrt.py](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/tools/demo_gmrt.py), [source\_positions.py](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/tools/source_positions.py), [vis_dets](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/tools/vis_dets.py)): Tools adapted from CLARAN and others used to implement the source characterization pipeline.
+
 
 **Run**: `python3 source_positions.py` to characterize sources.
 
