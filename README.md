@@ -23,7 +23,4 @@ The repository include:
 `To run the source characterization pipeline, follow claran-gmrt_example.ipynb tutorial.`
 
 `# to characterize sources` <br>
-`python3 source_positions.py` 
-
-### TODOS
-* the code currently uses static files, the next version will improve upon this. 
+`python3 source_positions.py`  
