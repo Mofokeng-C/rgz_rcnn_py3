@@ -13,7 +13,7 @@ After generating cutouts following approach outlined in ClaRAN's paper.
 catalog argument was used in order to overlay positional information about the centre of the cutout. The script above returns a csv file of detections from ClaRAN.
 
 ## Source characterization pipeline
-Switch to [sc_pipeline](https://github.com/Mofokeng-C/rgz_rcnn_py3/tree/sc_pipeline) branch.
+Switch to [sc_pipeline](https://github.com/Mofokeng-C/rgz_rcnn_py3/tree/sc_pipeline) branch for the pipeline code.
 
 From the detection and classification phase, ClaRAN ouputs the csv files of the detections which were grouped into a catalog.
 
