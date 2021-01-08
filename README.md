@@ -25,4 +25,5 @@ The repository include:
 `# to characterize sources` <br>
 `python3 source_positions.py` 
 
-PS: the code currently uses static files, the next version will improve upon this. 
+### TODOS
+* the code currently uses static files, the next version will improve upon this. 
