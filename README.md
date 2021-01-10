@@ -8,7 +8,7 @@ All information about requirements, setup, tutorial, etc. of ClaRAN code can be 
 
 After generating cutouts following approach outlined in ClaRAN's paper.
 
-**Run**: `cd tools` and `%run /users/cmofokeng/rgz_rcnn/tools/demo_gmrt.py --radio /idia/users/cmofokeng/data/gmrt/split_fits/test_1deg/gmrt_en1w610_clipped_97.fits --ir /idia/users/cmofokeng/data/gmrt/split_fits/test_1deg/gmrt_en1w610_clipped_97_infrared.png --catalog /idia/users/cmofokeng/data/gmrt/en1w610-5sg9-clean-offset.vot`
+**Run**: `cd tools` and `%run /users/cmofokeng/rgz_rcnn/tools/demo_gmrt.py --radio /idia/users/cmofokeng/data/gmrt/split_fits/test_1deg/gmrt_en1w610_clipped_21.fits --ir /idia/users/cmofokeng/data/gmrt/split_fits/test_1deg/gmrt_en1w610_clipped_21_infrared.png --catalog /idia/users/cmofokeng/data/gmrt/en1w610-5sg9-clean-offset.vot`
 
 <img width="400" alt="gmrt_en1w610_clipped_21_logminmax_pred" src="https://user-images.githubusercontent.com/42966715/104115088-10b9de80-5314-11eb-83d3-afbb91840484.png"/><img width="400" alt="gmrt_en1w610_clipped_21_infraredctmask_pred" src=https://user-images.githubusercontent.com/42966715/104115024-75c10480-5313-11eb-9a11-b0bce67a4437.png padding-right="10"/>
 
