@@ -20,7 +20,8 @@ The repository include:
 * ([demo\_gmrt.py](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/tools/demo_gmrt.py), [source\_positions.py](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/tools/source_positions.py), [vis_dets](https://github.com/Mofokeng-C/rgz_rcnn_py3/blob/sc_pipeline/tools/vis_dets.py)): Tools adapted from CLARAN and others used to implement the source characterization pipeline.
 
 
-'''To run the source characterization pipeline, follow claran-gmrt_example.ipynb tutorial.
+```To run the source characterization pipeline, follow claran-gmrt_example.ipynb tutorial.
 
 to characterize sources <br>
-#Run: `python3 source_positions.py`'''  
+#Run: `python3 source_positions.py`
+```  
